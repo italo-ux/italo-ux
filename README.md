@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Olá, eu sou Italo
 
-<!--
-**italo-ux/italo-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação
+🎓 Técnico em Informática para Internet
+🚀 Focado em desenvolvimento Web e Backend
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias
+
+HTML • CSS • JavaScript • Node.js
+Java • Spring Boot • MySQL
+React • TypeScript • Git • Figma
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+📌 Projetos em destaque
+
+Renda+
+Sistema de gerenciamento financeiro familiar.
+
+Plataforma EAD
+Plataforma de cursos com diferentes níveis de acesso.
+
+DiasJuntos
+Aplicação web desenvolvida com Spring Boot.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+🔥 Projetos
+💻 Código
+📚 Aprendizado contínuo
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Contato
+
+LinkedIn • Email • Portfólio
